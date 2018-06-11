@@ -1,6 +1,6 @@
 # lm-interaction-power
 
-Monte Carlo simulation of power for linear model with interaction.
+Monte Carlo simulation of power for linear model with interactions using the superb [paramtest](https://cran.r-project.org/web/packages/paramtest/vignettes/Simulating-Power.html) package.
 
 ## Two independent variables
 
